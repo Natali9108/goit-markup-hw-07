@@ -1,4 +1,9 @@
-/*:root {
+:root {
+  /*fonts*/
+  --main-font: roboto, sans-serif;
+  --secondary-font: Raleway, sans-serif;
+
+  /*text colors*/
   --primary-text-color: #212121;
   --title-text-color: #ffffff;
   --secondary-text-color: #757575;
@@ -13,4 +18,3 @@
 
   --timing-function: cubic-bezier(0.4, 0, 0.2, 1);
 }
-
